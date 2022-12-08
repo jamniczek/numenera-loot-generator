@@ -1,7 +1,7 @@
 {
   "name": "loot-generator",
   "version": "0.1.0",
-  "homepage": "https://jamniczek.github.io/loot-generator",
+  "homepage": "https://jamniczek.github.io/numenera-loot-generator",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
