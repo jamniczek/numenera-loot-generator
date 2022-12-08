@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/numenera-loot-generator/static/css/main.2240fb76.css",
-    "main.js": "/numenera-loot-generator/static/js/main.eddad995.js",
+    "main.js": "/numenera-loot-generator/static/js/main.d919eb51.js",
     "static/js/787.919b822c.chunk.js": "/numenera-loot-generator/static/js/787.919b822c.chunk.js",
     "index.html": "/numenera-loot-generator/index.html",
     "main.2240fb76.css.map": "/numenera-loot-generator/static/css/main.2240fb76.css.map",
-    "main.eddad995.js.map": "/numenera-loot-generator/static/js/main.eddad995.js.map",
+    "main.d919eb51.js.map": "/numenera-loot-generator/static/js/main.d919eb51.js.map",
     "787.919b822c.chunk.js.map": "/numenera-loot-generator/static/js/787.919b822c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2240fb76.css",
-    "static/js/main.eddad995.js"
+    "static/js/main.d919eb51.js"
   ]
 }
