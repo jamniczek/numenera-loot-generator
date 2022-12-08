@@ -5,7 +5,7 @@ export const styles = StyleSheet.create({
   page: {
     flexDirection: "row",
     fontSize: 10,
-    padding: 2,
+    padding: 10,
     fontFamily: "Helvetica",
   },
   cypherContainer: {
