@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/loot-generator/static/css/main.2240fb76.css",
-    "main.js": "/loot-generator/static/js/main.259fd353.js",
-    "static/js/787.919b822c.chunk.js": "/loot-generator/static/js/787.919b822c.chunk.js",
-    "index.html": "/loot-generator/index.html",
-    "main.2240fb76.css.map": "/loot-generator/static/css/main.2240fb76.css.map",
-    "main.259fd353.js.map": "/loot-generator/static/js/main.259fd353.js.map",
-    "787.919b822c.chunk.js.map": "/loot-generator/static/js/787.919b822c.chunk.js.map"
+    "main.css": "/numenera-loot-generator/static/css/main.2240fb76.css",
+    "main.js": "/numenera-loot-generator/static/js/main.eddad995.js",
+    "static/js/787.919b822c.chunk.js": "/numenera-loot-generator/static/js/787.919b822c.chunk.js",
+    "index.html": "/numenera-loot-generator/index.html",
+    "main.2240fb76.css.map": "/numenera-loot-generator/static/css/main.2240fb76.css.map",
+    "main.eddad995.js.map": "/numenera-loot-generator/static/js/main.eddad995.js.map",
+    "787.919b822c.chunk.js.map": "/numenera-loot-generator/static/js/787.919b822c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2240fb76.css",
-    "static/js/main.259fd353.js"
+    "static/js/main.eddad995.js"
   ]
 }
